@@ -1,0 +1,50 @@
+/* .texto {
+    color:rgb(0, 164, 11);
+}
+#indentificador {
+    color:rgba(255, 0, 0,0.7);
+}
+#bill {
+    color: #1bffe8;
+} */
+ /* @import url('https://fonts.googleapis.com/css2?family=Bitcount+Ink:wght@100..900&display=swap');
+
+#titulo {
+    color:#000000;
+    font-size: 60px;
+    text-align: center;
+    font-family: "Bitcount Ink", system-ui;
+}
+#paragrafo {
+    color:#830000 ;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    word-spacing: 4px;
+    letter-spacing: 2px;
+    text-align: justify;
+    line-height: 35px;
+}
+body {
+    background-color: #ff4848;
+} */
+ @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+ #guia-eleitor {
+    color: black;
+   
+ }
+ #titulo {
+    color:#cf210e;
+    font-size: 36px;
+ }
+ #rodape {
+    color:#606060;
+    font-size: 12px;
+ }
+#container {
+    height: 35vh;
+    width: 40vw;
+}
+*{
+     font-family: "Inter", sans-serif;
+}
